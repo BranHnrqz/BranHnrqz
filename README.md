@@ -4,8 +4,8 @@
 		<img alt="DEV" src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" />
 	</td>
 	<td>
-			<p>Backend Developer <b>👨‍💻 Engineering Student 🎨</b>  de aplicaciones web desde sitios web informativos hasta aplicaciones completas con autenticación, base de datos e interacción en tiempo real. Con la capacidad de desarrollar desde la configuración, diseño, programación y publicación.</p>
-		<p align="center"> <a href="https://twitter.com/JuanEGalvis"> <img src="https://img.icons8.com/fluent/35/000000/twitter.png" /> </a> <a href="https://www.linkedin.com/in/juanegalvis/"> <img src="https://img.icons8.com/color/35/000000/linkedin.png" /> </a> <a href="https://www.instagram.com/juanesgalvisb/"> <img src="https://img.icons8.com/fluent/35/000000/instagram-new.png" /> </a>
+			<p>Backend Developer <b>👨‍💻 Engineering Student 👾</b>  Welcome to my GitHub profile! My name is Brandon Henríquez and I'm a passionate programmer who loves to play video games and listen to music.</p>
+		<p align="center"> <a href="https://twitter.com/BranMej"> <img src="https://img.icons8.com/fluent/35/000000/twitter.png" /> </a> <a href="https://www.linkedin.com/in/brandon-henriquez-76a603241/"> <img src="https://img.icons8.com/color/35/000000/linkedin.png" /> </a> <a href="https://www.instagram.com/bran._.hm/"> <img src="https://img.icons8.com/fluent/35/000000/instagram-new.png" /> </a>
 </p>
 	</td>
    </tr>
