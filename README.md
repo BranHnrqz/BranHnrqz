@@ -29,4 +29,7 @@
 ## Databases: 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=4)](https://skillicons.dev)
 
+## Design:
+[![My Skills](https://skillicons.dev/icons?i=pr,ps,ai,au,ae&perline=8)](https://skillicons.dev)
+
 <p align="center"><img alt="Gif decorativo final" src="https://i.postimg.cc/k5wGrps2/giphy.gif" /></p>
