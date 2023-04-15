@@ -1,7 +1,7 @@
 <table border="0">
 	<tr>
 		<td>
-		<img alt="DEV" src="https://media.giphy.com/media/ES9cAJlcxblRESzOH1/giphy.gif" />
+		<img alt="Mario" src="https://media.giphy.com/media/JcFUHp7b9mnj5a01AN/giphy.gif" />
 	</td>
 	<td>
 			<p>Backend Developer <b>👨‍💻 Engineering Student 🎨</b>  de aplicaciones web desde sitios web informativos hasta aplicaciones completas con autenticación, base de datos e interacción en tiempo real. Con la capacidad de desarrollar desde la configuración, diseño, programación y publicación.</p>
