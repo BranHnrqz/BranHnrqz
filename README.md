@@ -32,4 +32,7 @@
 ## Design:
 [![My Skills](https://skillicons.dev/icons?i=pr,ps,ai,au,ae&perline=8)](https://skillicons.dev)
 
+## Learning:
+[![My Skills](https://skillicons.dev/icons?i=azure,html,css,js,nodejs,react,dotnet,django,graphql,idea,kotlin&perline=12)](https://skillicons.dev)
+
 <p align="center"><img alt="Gif decorativo final" src="https://i.postimg.cc/k5wGrps2/giphy.gif" /></p>
