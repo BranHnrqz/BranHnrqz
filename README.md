@@ -24,6 +24,6 @@
 # Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>:
 
 ## Programming Language:
-[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,php&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,php,java&perline=8)](https://skillicons.dev)
 
 <p align="center"><img alt="Gif decorativo final" src="https://i.postimg.cc/k5wGrps2/giphy.gif" /></p>
