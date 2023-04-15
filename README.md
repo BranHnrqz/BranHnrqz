@@ -35,4 +35,8 @@
 ## Learning 📚:
 [![My Skills](https://skillicons.dev/icons?i=azure,html,css,js,nodejs,react,dotnet,django,graphql,idea,kotlin&perline=12)](https://skillicons.dev)
 
+<p style="font-size: 16px">If debugging is the process of removing software bugs, then programming must be the process of putting them in. ✨
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
+</p>
+
 <p align="center"><img alt="Gif decorativo final" src="https://i.postimg.cc/k5wGrps2/giphy.gif" /></p>
