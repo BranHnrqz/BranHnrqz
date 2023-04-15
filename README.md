@@ -2,7 +2,7 @@
 <img src="nombre.gif" alt="Brandon Henriquez" style="margin-bottom: 5px" />
 </div>
 
-## Hello World! <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+# Hello World! <img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Hi.gif" width="29px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <p style="font-size: 16px">Backend Developer & Engineer Student
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
