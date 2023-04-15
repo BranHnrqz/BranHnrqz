@@ -26,4 +26,7 @@
 ## Programming Language:
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,php,java&perline=8)](https://skillicons.dev)
 
+## Databases: 
+[![My Skills](https://skillicons.dev/icons?i=mongodb,mysql,sql&perline=4)](https://skillicons.dev)
+
 <p align="center"><img alt="Gif decorativo final" src="https://i.postimg.cc/k5wGrps2/giphy.gif" /></p>
