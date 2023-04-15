@@ -23,16 +23,16 @@
 
 # Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>:
 
-## Programming Language:
+## Programming Language 👨🏻‍💻:
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,php,java&perline=8)](https://skillicons.dev)
 
-## Databases: 
+## Databases 🛢️: 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb&perline=4)](https://skillicons.dev)
 
-## Design:
+## Design 🎨:
 [![My Skills](https://skillicons.dev/icons?i=pr,ps,ai,au,ae&perline=8)](https://skillicons.dev)
 
-## Learning:
+## Learning 📚:
 [![My Skills](https://skillicons.dev/icons?i=azure,html,css,js,nodejs,react,dotnet,django,graphql,idea,kotlin&perline=12)](https://skillicons.dev)
 
 <p align="center"><img alt="Gif decorativo final" src="https://i.postimg.cc/k5wGrps2/giphy.gif" /></p>
