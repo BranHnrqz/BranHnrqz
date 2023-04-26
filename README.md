@@ -21,7 +21,7 @@
    </tr>
 </table>
 
-# Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>:
+# Skills <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="29px">:
 
 ## Programming Language 👨🏻‍💻:
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,php,java&perline=8)](https://skillicons.dev)
