@@ -23,7 +23,7 @@
 
 # Skills <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="29px">:
 
-## Programming Language 👨🏻‍💻:
+## Programming Language <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="29px">🏻‍💻:
 [![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,py,php,java&perline=8)](https://skillicons.dev)
 
 ## Databases 🛢️: 
