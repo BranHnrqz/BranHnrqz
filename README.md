@@ -37,6 +37,8 @@
 
 ## "If debugging is the process of removing software bugs, then programming must be the process of putting them in."<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3KnmwBGkFY3khQcVX1oZcx?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
