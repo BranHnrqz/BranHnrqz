@@ -35,7 +35,7 @@
 ## Learning 📚:
 [![My Skills](https://skillicons.dev/icons?i=azure,html,css,js,nodejs,react,dotnet,django,graphql,idea,kotlin&perline=12)](https://skillicons.dev)
 
-## "If debugging is the process of removing software bugs, then programming must be the process of putting them in."<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
+## "Programming is the art of turning imagination into reality through code. :)"<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
 <div align="center">
   <a href="https://1999azzar.github.io/1999AZZAR/">
